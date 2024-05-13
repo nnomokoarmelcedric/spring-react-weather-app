@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: Temperature
+myapp:
+    API_KEY: 1216301ff04643a79d0214705241005
